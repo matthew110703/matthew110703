@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UnknownLoop11
 - 👀 I’m interested in Creating websites, Ethical hacking & Coding.
-- 🌱 I’m currently learning Django 
+- 🌱 I’m currently learning Everything I could.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
