@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZtamwwaDdjNTZjNGdoZW05aXJkcGQ5Y2xpbTA3czIyM3R6cGRtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" align="center" style="width: 100%" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZtamwwaDdjNTZjNGdoZW05aXJkcGQ5Y2xpbTA3czIyM3R6cGRtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" align="center" style="width: 100%;border-radius: 100%;" />
 </div>  
   
 
@@ -10,7 +10,7 @@
   
 
 <br/>  
-
+I'm a full-stack web developer with a passion for creating dynamic and user-friendly websites. Skilled in both frontend and backend technologies, I bring ideas to life with various modern techs. I enjoy blending design and functionality to craft seamless digital experiences. Continuously learning and exploring new technologies, I’m dedicated to delivering high-quality, efficient solutions.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
