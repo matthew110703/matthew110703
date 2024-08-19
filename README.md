@@ -13,6 +13,8 @@
 I'm a full-stack web developer with a passion for creating dynamic and user-friendly websites. Skilled in both frontend and backend technologies, I bring ideas to life with various modern techs. I enjoy blending design and functionality to craft seamless digital experiences. Continuously learning and exploring new technologies, I’m dedicated to delivering high-quality, efficient solutions.
 
   ![Snake animation](https://github.com/unknownloop11/unknownloop11/blob/output/github-contribution-grid-snake.svg)
+
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
