@@ -93,7 +93,7 @@ I'm a full-stack web developer with a passion for creating dynamic and user-frie
 
 <br/>  
 
-  ![Snake animation](https://github.com/unknownloop11/UnknownLoop11/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/UnknownLoop11/UnknownLoop11/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=unknownloop11&&style=flat-square" align="center" />
