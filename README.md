@@ -110,4 +110,3 @@ I'm a full-stack web developer with a passion for creating dynamic and user-frie
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
