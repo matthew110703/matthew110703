@@ -103,7 +103,7 @@ I'm a full-stack web developer with a passion for creating dynamic and user-frie
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/matthew" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
