@@ -83,17 +83,17 @@ I'm a full-stack web developer with a passion for creating dynamic and user-frie
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=unknownloop11&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
+<div align="center">
   
+![](https://github-readme-stats.vercel.app/api?username=matthew110703&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=matthew110703&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew110703&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+</div>
+
 
 <br/>  
-
-![snake gif](https://github.com/UnknownLoop11/UnknownLoop11/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=unknownloop11&&style=flat-square" align="center" />
@@ -110,5 +110,12 @@ I'm a full-stack web developer with a passion for creating dynamic and user-frie
                 />
             </a></div>
 <br />
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+</div>
+
+
 
 ----
