@@ -1,9 +1,6 @@
-<div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZtamwwaDdjNTZjNGdoZW05aXJkcGQ5Y2xpbTA3czIyM3R6cGRtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" align="center" style="width: 100%;border-radius: 100%;" />
-</div>  
-  
 
-# <div align="center">I'm Matthew, </div>  
+
+# <div align="center">👋Hii, I'm Matthew, </div>  
   
 
 ### <div align="center">A Passionate Full Stack Web Developer. 🕸🌏</div>  
