@@ -1,6 +1,6 @@
 # <div align="center">👋 Hi, I'm Matthew</div>  
 
-### <div align="center">A Passionate Web Developer 🕸🌏</div>  
+### <div align="center">Passionate Web Developer 🕸🌏</div>  
 
 I'm a dedicated and enthusiastic web developer with a strong passion for creating dynamic and user-friendly websites. I revel in the challenge of bringing ideas to life with modern technologies. My journey in tech has been driven by curiosity and a desire to solve complex problems through innovative solutions. Here, you'll find my projects, skills, and ways to connect with me.
 
